@@ -1,0 +1,32 @@
+Linux es un sistema operativo. Un sistema operativo es un software que administra los recursos de hardware asociados con tu computadora de escritorio o portátil.
+
+En pocas palabras, el sistema operativo gestiona la comunicación entre el software y tu hardware. Sin el sistema operativo (a menudo denominado "SO"), el software no funcionará.
+
+GNU Linux nace en 1983 es uno de los sistemas operativos más conocidos después de Windows. Existen diversos tipos de sistemas operativos Linux, ellos se llaman distribuciones.
+
+Linux tiene varias versiones diferentes que le permiten adaptarse a casi cualquier tipo de usuario. Desde usuarios nuevos hasta usuarios experimentados, encontrarán un tipo de Linux que puede satisfacer sus necesidades.
+
+Estas versiones se denominan distribuciones. Casi todas las distribuciones de Linux se pueden descargar de forma gratuita.
+
+Puedes grabarlas en el disco duro de tu máquina. También en un pendrive para instalarlo a través de los puertos USB en tantas máquinas como desees.
+
+Las distribuciones de Linux más populares son:
+
+Ubuntu Linux
+Linux Mint
+Arco de linux
+Fedora
+Debian
+openSUSE.
+
+Cada distribución de Linux tiene una apariencia diferente en el escritorio. Algunos optan por interfaces de usuario muy modernas, como Unity de Ubuntu o Deepin Desktop de Deepin.
+
+Mientras que otros optan por un entorno de escritorio más tradicional (openSUSE usa KDE). Para obtener una guía sencilla de los escritorios de Linux, consulta el portal de Linux Como seleccionar el mejor Linux de escritorio para ti.
+
+Puede consultar las 100 mejores distribuciones en el sitio Distrowatch.
+
+En cuanto a servidores, también es posible encontrar múltiples opciones. Aquí puedes recurrir a: Red Hat Enterprise Linux, Ubuntu Server, CentOS o SUSE Enterprise Linux.
+
+Algunas de las distribuciones de servidores anteriores son gratuitas, Ubuntu Server y CentOS. Otras tienen un precio asociado: Red Hat Enterprise Linux y SUSE Enterprise Linux.
+
+Aquellos con un precio asociado también incluyen soporte para la instalación y uso. Facilitando la integración y aprovechamiento de sus facilidades. 
